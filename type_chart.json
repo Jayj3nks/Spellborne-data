@@ -1,0 +1,80 @@
+{
+  "land": {
+    "land": 1,
+    "water": 2,
+    "air": 0.5
+  },
+  "water": {
+    "land": 0.5,
+    "water": 1,
+    "air": 2
+  },
+  "air": {
+    "land": 2,
+    "water": 0.5,
+    "air": 1
+  },
+  "apocalyptic": {
+    "apocalyptic": 1,
+    "fire": 2,
+    "ice": 0.5,
+    "electric": 2,
+    "poison": 0.5,
+    "heavy": 1,
+    "normal": 1
+  },
+  "fire": {
+    "apocalyptic": 0.5,
+    "fire": 1,
+    "ice": 2,
+    "electric": 1,
+    "poison": 0.5,
+    "heavy": 2,
+    "normal": 1
+  },
+  "ice": {
+    "apocalyptic": 2,
+    "fire": 0.5,
+    "ice": 1,
+    "electric": 2,
+    "poison": 1,
+    "heavy": 0.5,
+    "normal": 1
+  },
+  "electric": {
+    "apocalyptic": 0.5,
+    "fire": 1,
+    "ice": 0.5,
+    "electric": 1,
+    "poison": 2,
+    "heavy": 2,
+    "normal": 1
+  },
+  "poison": {
+    "apocalyptic": 2,
+    "fire": 2,
+    "ice": 1,
+    "electric": 0.5,
+    "poison": 1,
+    "heavy": 0.5,
+    "normal": 1
+  },
+  "heavy": {
+    "apocalyptic": 1,
+    "fire": 0.5,
+    "ice": 2,
+    "electric": 0.5,
+    "poison": 2,
+    "heavy": 1,
+    "normal": 1
+  },
+  "normal": {
+    "apocalyptic": 1,
+    "fire": 1,
+    "ice": 1,
+    "electric": 1,
+    "poison": 1,
+    "heavy": 1,
+    "normal": 1
+  }
+}

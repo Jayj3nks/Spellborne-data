@@ -1,0 +1,522 @@
+[
+  {
+    "name": "Acceleration",
+    "element": "Heavy"
+  },
+  {
+    "name": "Acid Dribble",
+    "element": "Fire"
+  },
+  {
+    "name": "Armored Tail",
+    "element": "Normal"
+  },
+  {
+    "name": "Barrage",
+    "element": "Ice"
+  },
+  {
+    "name": "Bite",
+    "element": "Apocalyptic"
+  },
+  {
+    "name": "Blaze Rollout",
+    "element": "Fire"
+  },
+  {
+    "name": "Blizzard",
+    "element": "Ice"
+  },
+  {
+    "name": "Blow",
+    "element": "Air"
+  },
+  {
+    "name": "Body Push",
+    "element": "Heavy"
+  },
+  {
+    "name": "Bombshell",
+    "element": "Electric"
+  },
+  {
+    "name": "Break-Rock",
+    "element": "Apocalyptic"
+  },
+  {
+    "name": "Burning Spit",
+    "element": "Apocalyptic"
+  },
+  {
+    "name": "Call Of The Woods",
+    "element": "Land"
+  },
+  {
+    "name": "Chant",
+    "element": "Normal"
+  },
+  {
+    "name": "Chemical Defense",
+    "element": "Apocalyptic"
+  },
+  {
+    "name": "Confusion",
+    "element": "Normal"
+  },
+  {
+    "name": "Contamination",
+    "element": "Poison"
+  },
+  {
+    "name": "Corrosive Shell",
+    "element": "Poison"
+  },
+  {
+    "name": "Cotton Candy",
+    "element": "Normal"
+  },
+  {
+    "name": "Cut",
+    "element": "Normal"
+  },
+  {
+    "name": "Damocles",
+    "element": "Apocalyptic"
+  },
+  {
+    "name": "Dark Waves",
+    "element": "Apocalyptic"
+  },
+  {
+    "name": "Discharge",
+    "element": "Electric"
+  },
+  {
+    "name": "Dive",
+    "element": "Air"
+  },
+  {
+    "name": "Downpour",
+    "element": "Water"
+  },
+  {
+    "name": "Drive",
+    "element": "Heavy"
+  },
+  {
+    "name": "Elec Wall",
+    "element": "Electric"
+  },
+  {
+    "name": "Electric Tail",
+    "element": "Electric"
+  },
+  {
+    "name": "Electrifying Claws",
+    "element": "Electric"
+  },
+  {
+    "name": "Electrifying Fur",
+    "element": "Electric"
+  },
+  {
+    "name": "Electrifying Wings",
+    "element": "Electric"
+  },
+  {
+    "name": "Electromagnetic Waves",
+    "element": "Electric"
+  },
+  {
+    "name": "Electrostatic",
+    "element": "Electric"
+  },
+  {
+    "name": "Explo Roll",
+    "element": "Land"
+  },
+  {
+    "name": "Fire Dive",
+    "element": "Fire"
+  },
+  {
+    "name": "Fire Spark",
+    "element": "Fire"
+  },
+  {
+    "name": "Fire Turn",
+    "element": "Fire"
+  },
+  {
+    "name": "Flame",
+    "element": "Fire"
+  },
+  {
+    "name": "Flame Armor",
+    "element": "Fire"
+  },
+  {
+    "name": "Flare Rush",
+    "element": "Fire"
+  },
+  {
+    "name": "Fooling Dash",
+    "element": "Apocalyptic"
+  },
+  {
+    "name": "Fragmented Explosion",
+    "element": "Apocalyptic"
+  },
+  {
+    "name": "Fresh Waves",
+    "element": "Water"
+  },
+  {
+    "name": "Friendship",
+    "element": "Normal"
+  },
+  {
+    "name": "Frostbite",
+    "element": "Ice"
+  },
+  {
+    "name": "Frosted Claws",
+    "element": "Ice"
+  },
+  {
+    "name": "Frosting",
+    "element": "Ice"
+  },
+  {
+    "name": "Frozen Bite",
+    "element": "Ice"
+  },
+  {
+    "name": "Frozen Plenitude",
+    "element": "Ice"
+  },
+  {
+    "name": "Galloping",
+    "element": "Land"
+  },
+  {
+    "name": "Gas",
+    "element": "Poison"
+  },
+  {
+    "name": "Grenade Launcher",
+    "element": "Fire"
+  },
+  {
+    "name": "Grooming",
+    "element": "Normal"
+  },
+  {
+    "name": "Head Smash",
+    "element": "Heavy"
+  },
+  {
+    "name": "Hot Slam",
+    "element": "Fire"
+  },
+  {
+    "name": "Ice Beam",
+    "element": "Ice"
+  },
+  {
+    "name": "Ice Roll",
+    "element": "Ice"
+  },
+  {
+    "name": "Icy Charge",
+    "element": "Ice"
+  },
+  {
+    "name": "Icy Tail",
+    "element": "Ice"
+  },
+  {
+    "name": "Imitation",
+    "element": "Apocalyptic"
+  },
+  {
+    "name": "Imposing",
+    "element": "Heavy"
+  },
+  {
+    "name": "Inferno",
+    "element": "Fire"
+  },
+  {
+    "name": "Intimidation",
+    "element": "Normal"
+  },
+  {
+    "name": "Iron Wall",
+    "element": "Apocalyptic"
+  },
+  {
+    "name": "Landing",
+    "element": "Air"
+  },
+  {
+    "name": "Lightening",
+    "element": "Heavy"
+  },
+  {
+    "name": "Lightning",
+    "element": "Electric"
+  },
+  {
+    "name": "Lightning Charge",
+    "element": "Electric"
+  },
+  {
+    "name": "Lounge",
+    "element": "Normal"
+  },
+  {
+    "name": "Noxious Water",
+    "element": "Water"
+  },
+  {
+    "name": "Ocean Waves",
+    "element": "Water"
+  },
+  {
+    "name": "Om Dance",
+    "element": "Apocalyptic"
+  },
+  {
+    "name": "Out of Spite",
+    "element": "Heavy"
+  },
+  {
+    "name": "Para Sting",
+    "element": "Electric"
+  },
+  {
+    "name": "Peck",
+    "element": "Normal"
+  },
+  {
+    "name": "Petals",
+    "element": "Land"
+  },
+  {
+    "name": "Poison Bomb",
+    "element": "Poison"
+  },
+  {
+    "name": "Poison Dart",
+    "element": "Poison"
+  },
+  {
+    "name": "Poisoned Chela",
+    "element": "Poison"
+  },
+  {
+    "name": "Poisoned Claws",
+    "element": "Poison"
+  },
+  {
+    "name": "Poisoned Tail",
+    "element": "Poison"
+  },
+  {
+    "name": "Poisonous Bath",
+    "element": "Poison"
+  },
+  {
+    "name": "Power Up",
+    "element": "Normal"
+  },
+  {
+    "name": "Protection",
+    "element": "Heavy"
+  },
+  {
+    "name": "Quick Leaf",
+    "element": "Land"
+  },
+  {
+    "name": "Replenish",
+    "element": "Land"
+  },
+  {
+    "name": "Rough Charge",
+    "element": "Heavy"
+  },
+  {
+    "name": "Royal Growl",
+    "element": "Land"
+  },
+  {
+    "name": "Scratch",
+    "element": "Normal"
+  },
+  {
+    "name": "Scubattack",
+    "element": "Water"
+  },
+  {
+    "name": "Seism",
+    "element": "Land"
+  },
+  {
+    "name": "Sharp Leaves",
+    "element": "Land"
+  },
+  {
+    "name": "Shear",
+    "element": "Heavy"
+  },
+  {
+    "name": "Shock Smash",
+    "element": "Electric"
+  },
+  {
+    "name": "Silent Eye",
+    "element": "Poison"
+  },
+  {
+    "name": "Smack",
+    "element": "Normal"
+  },
+  {
+    "name": "Solidification",
+    "element": "Apocalyptic"
+  },
+  {
+    "name": "Sow",
+    "element": "Land"
+  },
+  {
+    "name": "Squall Wing",
+    "element": "Air"
+  },
+  {
+    "name": "Starshine",
+    "element": "Apocalyptic"
+  },
+  {
+    "name": "Static",
+    "element": "Electric"
+  },
+  {
+    "name": "Steam Cloud",
+    "element": "Fire"
+  },
+  {
+    "name": "Storm",
+    "element": "Air"
+  },
+  {
+    "name": "Strategic Sleep",
+    "element": "Land"
+  },
+  {
+    "name": "Sunshine",
+    "element": "Fire"
+  },
+  {
+    "name": "Super Punch",
+    "element": "Normal"
+  },
+  {
+    "name": "Surf",
+    "element": "Water"
+  },
+  {
+    "name": "Swirl",
+    "element": "Water"
+  },
+  {
+    "name": "Tacklaqua",
+    "element": "Water"
+  },
+  {
+    "name": "Tackle",
+    "element": "Normal"
+  },
+  {
+    "name": "Tactical Focus",
+    "element": "Land"
+  },
+  {
+    "name": "Thunder Struck",
+    "element": "Electric"
+  },
+  {
+    "name": "Toxic Charge",
+    "element": "Poison"
+  },
+  {
+    "name": "Toxic Cloud",
+    "element": "Poison"
+  },
+  {
+    "name": "Toxicity",
+    "element": "Poison"
+  },
+  {
+    "name": "Trunk Blade",
+    "element": "Land"
+  },
+  {
+    "name": "Tunnel",
+    "element": "Land"
+  },
+  {
+    "name": "Twister",
+    "element": "Air"
+  },
+  {
+    "name": "Under-Hide",
+    "element": "Land"
+  },
+  {
+    "name": "Uppercut",
+    "element": "Air"
+  },
+  {
+    "name": "Vines",
+    "element": "Land"
+  },
+  {
+    "name": "Volcanic Lava",
+    "element": "Fire"
+  },
+  {
+    "name": "Water Bubble",
+    "element": "Water"
+  },
+  {
+    "name": "Water Dash",
+    "element": "Water"
+  },
+  {
+    "name": "Water Harvesting",
+    "element": "Water"
+  },
+  {
+    "name": "Waterfall",
+    "element": "Water"
+  },
+  {
+    "name": "Weight Wave",
+    "element": "Heavy"
+  },
+  {
+    "name": "Whooshing Leaves",
+    "element": "Land"
+  },
+  {
+    "name": "Wild Roar",
+    "element": "Normal"
+  },
+  {
+    "name": "Wooden Shelter",
+    "element": "Land"
+  }
+]

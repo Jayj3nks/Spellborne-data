@@ -1,0 +1,582 @@
+[
+  {
+    "name": "Skitten",
+    "primary_element": "land",
+    "secondary_element": "electric"
+  },
+  {
+    "name": "Cateow",
+    "primary_element": "land",
+    "secondary_element": "electric"
+  },
+  {
+    "name": "Bykko",
+    "primary_element": "land",
+    "secondary_element": "electric"
+  },
+  {
+    "name": "Presleaf",
+    "primary_element": "land",
+    "secondary_element": "poison"
+  },
+  {
+    "name": "Tamaril",
+    "primary_element": "land",
+    "secondary_element": "poison"
+  },
+  {
+    "name": "Bonoble",
+    "primary_element": "land",
+    "secondary_element": "poison"
+  },
+  {
+    "name": "Caiman",
+    "primary_element": "water",
+    "secondary_element": "ice"
+  },
+  {
+    "name": "Gatoron",
+    "primary_element": "water",
+    "secondary_element": "ice"
+  },
+  {
+    "name": "Sobek",
+    "primary_element": "water",
+    "secondary_element": "ice"
+  },
+  {
+    "name": "Froxen",
+    "primary_element": "land",
+    "secondary_element": "ice"
+  },
+  {
+    "name": "Masuki",
+    "primary_element": "land",
+    "secondary_element": "ice"
+  },
+  {
+    "name": "Kitsune",
+    "primary_element": "land",
+    "secondary_element": "ice"
+  },
+  {
+    "name": "Toadle",
+    "primary_element": "water",
+    "secondary_element": "poison"
+  },
+  {
+    "name": "Frogge",
+    "primary_element": "water",
+    "secondary_element": "poison"
+  },
+  {
+    "name": "Granita",
+    "primary_element": "water",
+    "secondary_element": "ice"
+  },
+  {
+    "name": "Anura",
+    "primary_element": "water",
+    "secondary_element": "poison"
+  },
+  {
+    "name": "Pandoro",
+    "primary_element": "land",
+    "secondary_element": "heavy"
+  },
+  {
+    "name": "Nindoro",
+    "primary_element": "land",
+    "secondary_element": "heavy"
+  },
+  {
+    "name": "Pixiu",
+    "primary_element": "land",
+    "secondary_element": "heavy"
+  },
+  {
+    "name": "Dynorat",
+    "primary_element": "land",
+    "secondary_element": "fire"
+  },
+  {
+    "name": "Detoraton",
+    "primary_element": "land",
+    "secondary_element": "fire"
+  },
+  {
+    "name": "Grenadent",
+    "primary_element": "land",
+    "secondary_element": "heavy"
+  },
+  {
+    "name": "Nuking",
+    "primary_element": "land",
+    "secondary_element": "fire"
+  },
+  {
+    "name": "Bower",
+    "primary_element": "water",
+    "secondary_element": "heavy"
+  },
+  {
+    "name": "Scuberant",
+    "primary_element": "water",
+    "secondary_element": "heavy"
+  },
+  {
+    "name": "Empod",
+    "primary_element": "land",
+    "secondary_element": "poison"
+  },
+  {
+    "name": "Hemzel",
+    "primary_element": "land",
+    "secondary_element": "poison"
+  },
+  {
+    "name": "Grimzel",
+    "primary_element": "land",
+    "secondary_element": "heavy"
+  },
+  {
+    "name": "Entomore",
+    "primary_element": "land",
+    "secondary_element": "poison"
+  },
+  {
+    "name": "Woodot",
+    "primary_element": "land",
+    "secondary_element": "heavy"
+  },
+  {
+    "name": "Mutwig",
+    "primary_element": "land",
+    "secondary_element": "heavy"
+  },
+  {
+    "name": "Lupin",
+    "primary_element": "land",
+    "secondary_element": "heavy"
+  },
+  {
+    "name": "Skelefish",
+    "primary_element": "water",
+    "secondary_element": "apocalyptic"
+  },
+  {
+    "name": "Punkarp",
+    "primary_element": "water",
+    "secondary_element": "apocalyptic"
+  },
+  {
+    "name": "Koralith",
+    "primary_element": "water",
+    "secondary_element": "poison"
+  },
+  {
+    "name": "Depthorne",
+    "primary_element": "water",
+    "secondary_element": "apocalyptic"
+  },
+  {
+    "name": "Wisp",
+    "primary_element": "air",
+    "secondary_element": "apocalyptic"
+  },
+  {
+    "name": "Pantheor",
+    "primary_element": "land",
+    "secondary_element": "ice"
+  },
+  {
+    "name": "Icedeor",
+    "primary_element": "land",
+    "secondary_element": "ice"
+  },
+  {
+    "name": "Mishupashu",
+    "primary_element": "land",
+    "secondary_element": "ice"
+  },
+  {
+    "name": "Mooncat",
+    "primary_element": "land",
+    "secondary_element": "apocalyptic"
+  },
+  {
+    "name": "Lunaria",
+    "primary_element": "land",
+    "secondary_element": "apocalyptic"
+  },
+  {
+    "name": "Babykong",
+    "primary_element": "land",
+    "secondary_element": "apocalyptic"
+  },
+  {
+    "name": "Cyberkong",
+    "primary_element": "land",
+    "secondary_element": "apocalyptic"
+  },
+  {
+    "name": "Spacekong",
+    "primary_element": "land",
+    "secondary_element": "apocalyptic"
+  },
+  {
+    "name": "Kaiju",
+    "primary_element": "land",
+    "secondary_element": "fire"
+  },
+  {
+    "name": "Nemesis",
+    "primary_element": "land",
+    "secondary_element": "fire"
+  },
+  {
+    "name": "Azatoth",
+    "primary_element": "land",
+    "secondary_element": "fire"
+  },
+  {
+    "name": "Paddle",
+    "primary_element": "water",
+    "secondary_element": "ice"
+  },
+  {
+    "name": "Splaterpus",
+    "primary_element": "water",
+    "secondary_element": "ice"
+  },
+  {
+    "name": "Yeti",
+    "primary_element": "land",
+    "secondary_element": "ice"
+  },
+  {
+    "name": "Napier",
+    "primary_element": "land",
+    "secondary_element": "ice"
+  },
+  {
+    "name": "Mujira",
+    "primary_element": "land",
+    "secondary_element": "ice"
+  },
+  {
+    "name": "Nectus",
+    "primary_element": "land",
+    "secondary_element": "ice"
+  },
+  {
+    "name": "Godjira",
+    "primary_element": "land",
+    "secondary_element": "ice"
+  },
+  {
+    "name": "Snetail",
+    "primary_element": "land",
+    "secondary_element": "poison"
+  },
+  {
+    "name": "Kobra",
+    "primary_element": "land",
+    "secondary_element": "poison"
+  },
+  {
+    "name": "Mundor",
+    "primary_element": "land",
+    "secondary_element": "poison"
+  },
+  {
+    "name": "Alpacabra",
+    "primary_element": "land",
+    "secondary_element": "apocalyptic"
+  },
+  {
+    "name": "Ignipuff",
+    "primary_element": "land",
+    "secondary_element": "fire"
+  },
+  {
+    "name": "Gudboy",
+    "primary_element": "land",
+    "secondary_element": "fire"
+  },
+  {
+    "name": "Armadrill",
+    "primary_element": "land",
+    "secondary_element": "heavy"
+  },
+  {
+    "name": "Bunkern",
+    "primary_element": "land",
+    "secondary_element": "heavy"
+  },
+  {
+    "name": "Tankerole",
+    "primary_element": "land",
+    "secondary_element": "heavy"
+  },
+  {
+    "name": "Flarpy",
+    "primary_element": "air",
+    "secondary_element": "apocalyptic"
+  },
+  {
+    "name": "Horus",
+    "primary_element": "air",
+    "secondary_element": "apocalyptic"
+  },
+  {
+    "name": "Khonsur",
+    "primary_element": "air",
+    "secondary_element": "apocalyptic"
+  },
+  {
+    "name": "Copybara",
+    "primary_element": "land",
+    "secondary_element": "ice"
+  },
+  {
+    "name": "Kapibro",
+    "primary_element": "land",
+    "secondary_element": "ice"
+  },
+  {
+    "name": "Megabara",
+    "primary_element": "land",
+    "secondary_element": "ice"
+  },
+  {
+    "name": "Hachibee",
+    "primary_element": "air",
+    "secondary_element": "electric"
+  },
+  {
+    "name": "Marubee",
+    "primary_element": "air",
+    "secondary_element": "electric"
+  },
+  {
+    "name": "Quinbee",
+    "primary_element": "air",
+    "secondary_element": "electric"
+  },
+  {
+    "name": "Warmean",
+    "primary_element": "land",
+    "secondary_element": "apocalyptic"
+  },
+  {
+    "name": "Wurmaut",
+    "primary_element": "land",
+    "secondary_element": "apocalyptic"
+  },
+  {
+    "name": "Lektocute",
+    "primary_element": "air",
+    "secondary_element": "electric"
+  },
+  {
+    "name": "Ravenstark",
+    "primary_element": "air",
+    "secondary_element": "electric"
+  },
+  {
+    "name": "Bengu",
+    "primary_element": "water",
+    "secondary_element": "apocalyptic"
+  },
+  {
+    "name": "Pagyong",
+    "primary_element": "water",
+    "secondary_element": "apocalyptic"
+  },
+  {
+    "name": "Mangroovy",
+    "primary_element": "water",
+    "secondary_element": "poison"
+  },
+  {
+    "name": "Crakatoa",
+    "primary_element": "water",
+    "secondary_element": "fire"
+  },
+  {
+    "name": "Tropicrab",
+    "primary_element": "water",
+    "secondary_element": "poison"
+  },
+  {
+    "name": "Teslime",
+    "primary_element": "water",
+    "secondary_element": "electric"
+  },
+  {
+    "name": "Mollumen",
+    "primary_element": "water",
+    "secondary_element": "electric"
+  },
+  {
+    "name": "Coptabug",
+    "primary_element": "air",
+    "secondary_element": "heavy"
+  },
+  {
+    "name": "Deltabug",
+    "primary_element": "air",
+    "secondary_element": "heavy"
+  },
+  {
+    "name": "Leyang",
+    "primary_element": "land",
+    "secondary_element": "fire"
+  },
+  {
+    "name": "Huolong",
+    "primary_element": "land",
+    "secondary_element": "fire"
+  },
+  {
+    "name": "Potamin",
+    "primary_element": "water",
+    "secondary_element": "heavy"
+  },
+  {
+    "name": "Patachonk",
+    "primary_element": "water",
+    "secondary_element": "heavy"
+  },
+  {
+    "name": "Largill",
+    "primary_element": "water",
+    "secondary_element": "poison"
+  },
+  {
+    "name": "Leucolot",
+    "primary_element": "water",
+    "secondary_element": "poison"
+  },
+  {
+    "name": "Parasteam",
+    "primary_element": "water",
+    "secondary_element": "fire"
+  },
+  {
+    "name": "Vaporeel",
+    "primary_element": "water",
+    "secondary_element": "fire"
+  },
+  {
+    "name": "Shrumel",
+    "primary_element": "land",
+    "secondary_element": "poison"
+  },
+  {
+    "name": "Bifungi",
+    "primary_element": "land",
+    "secondary_element": "poison"
+  },
+  {
+    "name": "Candyride",
+    "primary_element": "air",
+    "secondary_element": "normal"
+  },
+  {
+    "name": "Zappig",
+    "primary_element": "land",
+    "secondary_element": "electric"
+  },
+  {
+    "name": "Wilburp",
+    "primary_element": "land",
+    "secondary_element": "electric"
+  },
+  {
+    "name": "Spinobot",
+    "primary_element": "land",
+    "secondary_element": "electric"
+  },
+  {
+    "name": "Klamsibot",
+    "primary_element": "land",
+    "secondary_element": "electric"
+  },
+  {
+    "name": "Surphin",
+    "primary_element": "water",
+    "secondary_element": "heavy"
+  },
+  {
+    "name": "Sailmost",
+    "primary_element": "water",
+    "secondary_element": "heavy"
+  },
+  {
+    "name": "Squimbate",
+    "primary_element": "water",
+    "secondary_element": "poison"
+  },
+  {
+    "name": "Cocotee",
+    "primary_element": "water",
+    "secondary_element": "heavy"
+  },
+  {
+    "name": "Manthopia",
+    "primary_element": "land",
+    "secondary_element": "poison"
+  },
+  {
+    "name": "Elcabra",
+    "primary_element": "land",
+    "secondary_element": "apocalyptic"
+  },
+  {
+    "name": "Nikidna",
+    "primary_element": "land",
+    "secondary_element": "fire"
+  },
+  {
+    "name": "Ekinoa",
+    "primary_element": "land",
+    "secondary_element": "fire"
+  },
+  {
+    "name": "Schoktopus",
+    "primary_element": "water",
+    "secondary_element": "electric"
+  },
+  {
+    "name": "Pappetink",
+    "primary_element": "water",
+    "secondary_element": "electric"
+  },
+  {
+    "name": "Grifflet",
+    "primary_element": "air",
+    "secondary_element": "apocalyptic"
+  },
+  {
+    "name": "Malvyris",
+    "primary_element": "air",
+    "secondary_element": "apocalyptic"
+  },
+  {
+    "name": "Sphynex",
+    "primary_element": "land",
+    "secondary_element": "fire"
+  },
+  {
+    "name": "Norigami",
+    "primary_element": "air",
+    "secondary_element": "fire"
+  },
+  {
+    "name": "Limbat",
+    "primary_element": "air",
+    "secondary_element": "poison"
+  }
+]

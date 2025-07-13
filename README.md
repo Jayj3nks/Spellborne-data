@@ -2,9 +2,9 @@
 
 **CLI & Python API to scrape monsters & moves from Spellborne.**
 
-![PyPI](https://img.shields.io/pypi/v/spellborne-scraper)
-![Build](https://img.shields.io/github/actions/workflow/status/yourusername/spellborne-scraper/ci.yml)
-![Coverage](https://img.shields.io/codecov/c/github/yourusername/spellborne-scraper)
+![PyPI](https://img.shields.io/pypi/v/spellborne-data)
+![Build](https://img.shields.io/github/actions/workflow/status/yourusername/spellborne-data/ci.yml)
+![Coverage](https://img.shields.io/codecov/c/github/yourusername/spellborne-data)
 
 ## Features
 
